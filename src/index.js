@@ -12,7 +12,7 @@ import './main.scss';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/so_yummy">
+      <BrowserRouter basename="/react_node_bc_46_vazhavazh">
         <ThemeProvider>
           <App />
         </ThemeProvider>
