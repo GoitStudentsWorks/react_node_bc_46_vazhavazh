@@ -1,0 +1,10 @@
+{
+  "short_name": "React App",
+  "name": "so_yummy",
+ 
+  "start_url": ".",
+  "display": "standalone"
+
+}
+
+
